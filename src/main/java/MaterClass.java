@@ -4,4 +4,6 @@ public class MaterClass {
 
     }
 
+    public static final String m2 = "";
+
 }
