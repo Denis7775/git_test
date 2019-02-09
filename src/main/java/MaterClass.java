@@ -5,5 +5,6 @@ public class MaterClass {
     }
 
     public static final String m2 = "";
+    public static final String m3 = "";
 
 }
